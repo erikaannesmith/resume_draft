@@ -25,23 +25,23 @@ Creative direction & communication
 **TECHNICAL SKILLS (should be split into ‘languages’ and ‘tools/frameworks’)**
 *Languages*
 Ruby
-PostgreSQL
-HTML/CSS
-RSpec
-Minitest
-Git/GitHub
+-- PostgreSQL
+-- HTML/CSS
+-- RSpec
+-- Minitest
+-- Git/GitHub
 
 *Tools & Frameworks*
 Rails
-Sinatra
-ActiveRecord
-Capybara
-Consuming/Producing APIs
-TDD/BDD
-Bootstrap
-OAuth
-Heroku
-Waffle.io
+-- Sinatra
+-- ActiveRecord
+-- Capybara
+-- Consuming/Producing APIs
+-- TDD/BDD
+-- Bootstrap
+-- OAuth
+-- Heroku
+-- Waffle.io
 
 **WORK SAMPLES**
 Bikeshare - https://github.com/aschreck/bike-share
